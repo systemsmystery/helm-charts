@@ -1,3 +1,3 @@
 [submodule "charts/linkstack"]
 	path = charts/linkstack
-	url = git@gitlab.com:systemsmystery/helm-charts/helm-linkstack.git
+	url = https://gitlab.com/systemsmystery/helm-charts/helm-linkstack.git
