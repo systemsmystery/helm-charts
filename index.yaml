@@ -3,6 +3,17 @@ entries:
   linkstack:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2024-10-21T23:51:12.815712676Z"
+    description: A Helm chart for Kubernetes
+    digest: 55197658589b530aafd44edc7d2a39b2c78895703642d8d2cfc55f8f0fc976fe
+    icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUowTbjHyQNEjQENHS9nLviQuRfkc7SPirSA&s
+    name: linkstack
+    type: application
+    urls:
+    - https://github.com/systemsmystery/helm-charts/releases/download/linkstack-1.0.2/linkstack-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2024-10-21T23:44:03.144444417Z"
     description: A Helm chart for Kubernetes
     digest: 546a9e1a84b5cfb8df6027f8be638e5cc5726d98d4e526c5057de2176e4dd59b
@@ -34,4 +45,4 @@ entries:
     urls:
     - https://github.com/systemsmystery/helm-charts/releases/download/snipe-it-0.1.0/snipe-it-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-21T23:44:03.144456991Z"
+generated: "2024-10-21T23:51:12.815729006Z"
