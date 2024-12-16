@@ -1,3 +1,6 @@
 [submodule "charts/linkstack"]
 	path = charts/linkstack
 	url = https://gitlab.com/systemsmystery/helm-charts/helm-linkstack.git
+[submodule "charts/mealie"]
+	path = charts/mealie
+	url = https://gitlab.com/systemsmystery/helm-charts/helm-mealie.git
