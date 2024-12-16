@@ -59,6 +59,16 @@ entries:
   mealie:
   - apiVersion: v2
     appVersion: v2.4.0
+    created: "2024-12-16T22:56:15.506180596Z"
+    description: A Helm chart for Mealie
+    digest: bfbe5c44f4d93d1ace36c0614e3f70f011a8cbb7d0025ec48a113681577140de
+    name: mealie
+    type: application
+    urls:
+    - https://github.com/systemsmystery/helm-charts/releases/download/mealie-1.2.0/mealie-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v2
+    appVersion: v2.4.0
     created: "2024-12-16T22:44:51.332010599Z"
     description: A Helm chart for Mealie
     digest: c9215fb3104d1255f0ba3e64208d76f70955cf31dc4233e3dff066437d2a44ae
@@ -108,4 +118,4 @@ entries:
     urls:
     - https://github.com/systemsmystery/helm-charts/releases/download/snipe-it-0.1.0/snipe-it-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-16T22:44:51.332054551Z"
+generated: "2024-12-16T22:56:15.506211724Z"
