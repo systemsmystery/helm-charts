@@ -56,6 +56,17 @@ entries:
     urls:
     - https://github.com/systemsmystery/helm-charts/releases/download/linkstack-1.0.0/linkstack-1.0.0.tgz
     version: 1.0.0
+  mealie:
+  - apiVersion: v2
+    appVersion: v2.4.0
+    created: "2024-12-16T01:42:21.50010811Z"
+    description: A Helm chart for Mealie
+    digest: efa0e549b0102d1c03b06546bf636bb84f682292d6d4beeb2ab5c500fc00eee3
+    name: mealie
+    type: application
+    urls:
+    - https://github.com/systemsmystery/helm-charts/releases/download/mealie-0.1.0/mealie-0.1.0.tgz
+    version: 0.1.0
   snipe-it:
   - apiVersion: v2
     appVersion: 1.16.0
@@ -67,4 +78,4 @@ entries:
     urls:
     - https://github.com/systemsmystery/helm-charts/releases/download/snipe-it-0.1.0/snipe-it-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-22T21:08:27.797516627Z"
+generated: "2024-12-16T01:42:21.500126715Z"
