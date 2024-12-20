@@ -7,3 +7,6 @@
 [submodule "charts/charts/alertmanager-ntfy"]
 	path = charts/charts/alertmanager-ntfy
 	url = https://gitlab.com/systemsmystery/helm-charts/helm-alertmanager-ntfy.git
+[submodule "charts/alertmanager-ntfy"]
+	path = charts/alertmanager-ntfy
+	url = https://gitlab.com/systemsmystery/helm-charts/helm-alertmanager-ntfy.git
