@@ -4,3 +4,6 @@
 [submodule "charts/mealie"]
 	path = charts/mealie
 	url = https://gitlab.com/systemsmystery/helm-charts/helm-mealie.git
+[submodule "charts/charts/alertmanager-ntfy"]
+	path = charts/charts/alertmanager-ntfy
+	url = https://gitlab.com/systemsmystery/helm-charts/helm-alertmanager-ntfy.git
