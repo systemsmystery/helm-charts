@@ -54,6 +54,16 @@ entries:
   hoarder:
   - apiVersion: v2
     appVersion: 0.20.0
+    created: "2024-12-27T23:15:27.871157455Z"
+    description: A Helm chart for Kubernetes
+    digest: 0643e0ebf61e9c760fdb43a04f34d2947fbd7b0896649b09132265ac71e1af6b
+    name: hoarder
+    type: application
+    urls:
+    - https://github.com/systemsmystery/helm-charts/releases/download/hoarder-0.5.0/hoarder-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v2
+    appVersion: 0.20.0
     created: "2024-12-27T22:39:24.892133359Z"
     description: A Helm chart for Kubernetes
     digest: e09b521d636e9085318f9152672c278335a32d84d55c9b30020da5e3be13e40a
@@ -230,4 +240,4 @@ entries:
     urls:
     - https://github.com/systemsmystery/helm-charts/releases/download/snipe-it-0.1.0/snipe-it-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-27T22:39:24.892178874Z"
+generated: "2024-12-27T23:15:27.871247593Z"
