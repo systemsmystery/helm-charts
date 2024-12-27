@@ -10,3 +10,6 @@
 [submodule "charts/alertmanager-ntfy"]
 	path = charts/alertmanager-ntfy
 	url = https://gitlab.com/systemsmystery/helm-charts/helm-alertmanager-ntfy.git
+[submodule "charts/hoarder"]
+	path = charts/hoarder
+	url = https://gitlab.com/systemsmystery/helm-charts/helm-hoarder.git
