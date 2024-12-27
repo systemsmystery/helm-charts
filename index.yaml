@@ -51,6 +51,17 @@ entries:
     urls:
     - https://github.com/systemsmystery/helm-charts/releases/download/alertmanager-ntfy-0.1.0/alertmanager-ntfy-0.1.0.tgz
     version: 0.1.0
+  hoarder:
+  - apiVersion: v2
+    appVersion: 0.20.0
+    created: "2024-12-27T19:45:01.530760011Z"
+    description: A Helm chart for Kubernetes
+    digest: c7de5480d7484a858536de59d226f5ce7352d3a36a692fe316a005174713d1d1
+    name: hoarder
+    type: application
+    urls:
+    - https://github.com/systemsmystery/helm-charts/releases/download/hoarder-0.1.0/hoarder-0.1.0.tgz
+    version: 0.1.0
   linkstack:
   - apiVersion: v2
     appVersion: 1.16.0
@@ -189,4 +200,4 @@ entries:
     urls:
     - https://github.com/systemsmystery/helm-charts/releases/download/snipe-it-0.1.0/snipe-it-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-21T01:37:01.412609586Z"
+generated: "2024-12-27T19:45:01.530801218Z"
