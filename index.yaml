@@ -3,6 +3,16 @@ entries:
   alertmanager-ntfy:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2025-02-26T22:20:51.682580891Z"
+    description: A Helm chart for Kubernetes
+    digest: 5a4f5fed9a7e599c63790db3e3fd4175b104c741fab8bd76d49220cfad0da24f
+    name: alertmanager-ntfy
+    type: application
+    urls:
+    - https://github.com/systemsmystery/helm-charts/releases/download/alertmanager-ntfy-0.6.0/alertmanager-ntfy-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2024-12-21T01:37:01.412554813Z"
     description: A Helm chart for Kubernetes
     digest: 4412c73b620b6936e411e6224edd88ef4121c376d9dd25645cf314eb1c76e249
@@ -261,4 +271,4 @@ entries:
     urls:
     - https://github.com/systemsmystery/helm-charts/releases/download/snipe-it-0.1.0/snipe-it-0.1.0.tgz
     version: 0.1.0
-generated: "2025-01-05T23:48:22.568238979Z"
+generated: "2025-02-26T22:20:51.682634071Z"
