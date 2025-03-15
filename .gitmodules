@@ -13,3 +13,6 @@
 [submodule "charts/hoarder"]
 	path = charts/hoarder
 	url = https://gitlab.com/systemsmystery/helm-charts/helm-hoarder.git
+[submodule "charts/snipeit"]
+	path = charts/snipeit
+	url = https://gitlab.com/systemsmystery/helm-charts/helm-snipeit.git
