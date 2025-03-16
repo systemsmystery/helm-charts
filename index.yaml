@@ -64,6 +64,16 @@ entries:
   helm-snipeit:
   - apiVersion: v2
     appVersion: v8.0.4
+    created: "2025-03-16T23:38:31.803357488Z"
+    description: A Helm chart for Kubernetes
+    digest: 222a1eb093d482ee1c1a82a8e245acdcb609a856635f9d16ed88c74292f4391b
+    name: helm-snipeit
+    type: application
+    urls:
+    - https://github.com/systemsmystery/helm-charts/releases/download/helm-snipeit-0.10.0/helm-snipeit-0.10.0.tgz
+    version: 0.10.0
+  - apiVersion: v2
+    appVersion: v8.0.4
     created: "2025-03-16T23:35:11.263174604Z"
     description: A Helm chart for Kubernetes
     digest: 35ecc438129e782a1dce7dd341c55bd0b11b4f10a67882d3055e67faeae56921
@@ -362,4 +372,4 @@ entries:
     urls:
     - https://github.com/systemsmystery/helm-charts/releases/download/snipe-it-0.1.0/snipe-it-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-16T23:35:11.263259251Z"
+generated: "2025-03-16T23:38:31.803460901Z"
